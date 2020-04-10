@@ -4,4 +4,4 @@
 
 ## <p align="center"> Desafio 01. Planejando meus estudos </p>
 
-O primeiro desafio é necessário montar um cronograma de estudo diário e semanal, conforme seu tempo e ritmo, para que se tenha um compromisso com o curso, nos dias e horários estabelecidos.
+O primeiro desafio é necessário montar um cronograma de estudo diário e semanal, conforme seu tempo e ritmo, para que se tenha um compromisso com o curso nos dias e horários estabelecidos pelo mesmo.
